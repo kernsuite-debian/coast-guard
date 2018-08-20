@@ -1,3 +1,10 @@
+coast-guard (0.0+git20151216.201031b-1) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * New upstream version 0.0+git20151216.201031b
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 20 Aug 2018 18:23:31 +0200
+
 coast-guard (0-1) bionic; urgency=medium
 
   [ KERN packaging ]
