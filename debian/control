@@ -1,0 +1,20 @@
+Source: coast-guard
+Section: python
+Priority: extra
+Maintainer: KERN packaging <packaging@kernsuite.info>
+Build-Depends:
+ debhelper (>=9),
+ dh-python,
+ python-all,
+ python-scipy,
+ python-numpy,
+ python-sqlalchemy,
+ python-matplotlib
+Standards-Version: 3.9.8
+Homepage: https://github.com/plazar/coast_guard
+
+Package: coast-guard
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}, ${python:Depends}
+Description: A python/PSRCHIVE-based timing pipeline for reducing Effelsberg data.

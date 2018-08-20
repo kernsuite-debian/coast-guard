@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: coast_guard
+Source: https://github.com/plazar/coast_guard
+
+Files:     debian/*
+Copyright: 2018 Gijs Molenaar <gijs@pythonic.nl>
+License:   MIT

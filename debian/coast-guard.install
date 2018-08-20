@@ -1,0 +1,9 @@
+*.py usr/lib/python2.7/site-packages/coast_guard
+*.sh usr/bin
+cleaners/*.py usr/lib/python2.7/site-packages/coast_guard/cleaners
+database/*.py usr/lib/python2.7/site-packages/coast_guard/database
+rcvr_files/*.txt usr/lib/python2.7/site-packages/coast_guard/rcvr_files
+configurations/* usr/lib/python2.7/site-packages/coast_guard/configurations
+configurations/backends/* usr/lib/python2.7/site-packages/coast_guard/configurations/backends
+configurations/receivers/* usr/lib/python2.7/site-packages/coast_guard/configurations/receivers/
+

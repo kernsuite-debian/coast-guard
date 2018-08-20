@@ -1,0 +1,8 @@
+.debhelper/
+*.debhelper
+*.substvars
+*.log
+tmp/
+coast-guard/
+files
+
